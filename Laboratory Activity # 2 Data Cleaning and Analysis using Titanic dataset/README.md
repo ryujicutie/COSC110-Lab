@@ -2,7 +2,7 @@
 **Data Cleaning and Analysis using the Titanic Dataset**
 
 ## Description
-This lab builds on the previous activity by introducing data cleaning and more in-depth exploratory data analysis. Students identify and handle missing data, transform data for consistency, and derive insights using visualization and statistical summaries.
+This Lab builds on the previous activity by introducing data cleaning and more in-depth exploratory data analysis. Students identify and handle missing data, transform data for consistency, and derive insights using visualization and statistical summaries.
 
 ## Topics Covered
 - Handling missing values (`NaN`)
