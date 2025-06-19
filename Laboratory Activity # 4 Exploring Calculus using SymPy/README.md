@@ -2,18 +2,25 @@
 **Exploring Calculus using SymPy**
 
 ## Description
-This lab advances the use of SymPy by applying it to fundamental calculus topics, including integration, limits, and series expansions. Students learn how to compute symbolic solutions to calculus problems directly in code.
+This activity focuses on using Python and the SymPy library to explore foundational ideas in calculus — such as limits, derivatives, integrals, and series — in an accessible and beginner-friendly way.
 
-## Topics Covered
+Rather than writing the code from scratch, the emphasis is placed on interpreting pre-written code and understanding the mathematical concepts behind it.
+
+## Topics Explored
+- Symbolic limits and how they relate to approaching values
+- Derivatives and their role in analyzing change
 - Indefinite and definite integrals
-- Series expansions (Taylor/Maclaurin)
-- Evaluating limits
-- Plotting symbolic functions
+- Series expansion to approximate complex functions
 
 ## Purpose
-To reinforce mathematical concepts in calculus by using symbolic programming tools. This lab emphasizes how programming can support problem-solving in higher-level math.
+To help students develop a conceptual understanding of calculus without diving deep into complex mathematics. The activity builds math intuition by interacting with symbolic outputs in Python.
 
-## Notable Sections
-- Performing integration of polynomial and trigonometric functions
-- Series approximation of `e^x`, `sin(x)`
-- Computing limits for rational expressions
+## Student Task
+- Run the provided code snippets
+- Observe the symbolic or graphical outputs
+- Answer guiding questions about what the output represents
+- Explain the reasoning behind each result or interpretation
+
+## Value
+This activity bridges the gap between coding and mathematics. It supports the learning of abstract concepts like change, area under curves, and infinite series through visualization and symbolic manipulation.
+
