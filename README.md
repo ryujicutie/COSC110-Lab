@@ -6,7 +6,7 @@ Each lab is focused on a different topic, ranging from basic data analysis using
 
 ## Lab Contents
 
-- [Lab 1 - Introduction to Data Analysis with Titanic Dataset](./lab1_titanic_Macrohon.ipynb)
+- [Lab 1 - Introduction to Data Analysis with Titanic Dataset](./Laboratory Activity #1 Computational Thinking with the Titanic Dataset using Python/lab1_titanic_Macrohon.ipynb)
 - [Lab 2 - Exploratory Data Analysis on Titanic Dataset](./lab2_titanic_Macrohon.ipynb)
 - [Lab 3 - Symbolic Mathematics with SymPy](./lab3_sympy_Macrohon.ipynb)
 - [Lab 4 - Advanced Symbolic Computation with SymPy](./lab4_sympy_Macrohon.ipynb)
