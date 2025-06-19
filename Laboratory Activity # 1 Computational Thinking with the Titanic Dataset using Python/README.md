@@ -15,6 +15,6 @@ This activity introduces students to computational thinking by exploring a real-
 To develop a foundational mindset for solving problems using data. Students begin thinking like programmers by applying structured steps to break down and analyze information from a dataset.
 
 ## Notable Sections
-- Loading the Titanic dataset from CSV
+- Loading the Titanic Dataset from CSV
 - Exploring columns like `Age`, `Survived`, and `Sex`
 - Using conditions and filters to answer questions
